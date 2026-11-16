@@ -1,5 +1,5 @@
 '''
-Frequency Country using Dictionaries
+Frequency Counter using Dictionaries
 '''
 text = input("Enter a sentence: ")
 
